@@ -1,0 +1,15 @@
+tmp
+dragonruby
+dragonruby-httpd
+dragonruby-publish
+samples
+logs
+docs
+builds
+.dragonruby
+ctags-emacs
+ctags-vim
+eula.txt
+open-source-licenses.txt
+mygame/sounds/slow-blues.ogg
+CHANGELOG-*.txt
